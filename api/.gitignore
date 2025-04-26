@@ -1,0 +1,10 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# SQLite database file
+database.sqlite
+
+# Environment files
+.env
